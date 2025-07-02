@@ -43,3 +43,15 @@ datatype
   - `git init`
 - **TO link with remote repo**
   git remote add <origin> <url>
+
+
+
+- **Git general commands**
+  -**Git status check**
+    -`git status`
+  -**Git branch listing**
+    -`git branch`
+  -**Git create new branch**
+    -`git chekout -b <branchName>`
+  
+
