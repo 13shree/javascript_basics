@@ -33,3 +33,13 @@ scope
 datatype
   String
   Number  --> integer,float,bigInt
+
+//versioning branch le garxa
+
+
+===
+## **Git commands**
+- **To setup git**
+  - `git init`
+- **TO link with remote repo**
+  git remote add <origin> <url>
